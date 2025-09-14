@@ -1,0 +1,386 @@
+body {
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+ 
+}
+
+header {
+  background-color: rgba(255, 139, 31, 1);
+  height: 290px;
+  width: 2900px;
+
+}
+
+.pizza {
+  font-size: 32px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  position: absolute;
+  top: 35px;
+  left: 25%;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  line-height: 35px;
+  text-align: center;
+
+}
+
+.akcion {
+
+  font-size: 32px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  position: absolute;
+  top: 35px;
+  left: 45%;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  line-height: 35px;
+  text-align: center;
+
+}
+
+.cook-pizza {
+  font-size: 32px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  position: absolute;
+  top: 35px;
+  left: 65%;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 145px;
+  height: 40px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.pizza-days {
+  font-size: 32px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  position: absolute;
+  top: 110px;
+  left: 44%;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 145px;
+  height: 40px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.ff-1 {
+  background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  left: 15%;
+  display: inline-block;
+  margin-top: 65px;
+
+}
+
+.br1 {
+  height: 180px;
+  width: 180px;
+  border-radius: 120px;
+  left: 18%;
+}
+
+.rel1 {
+  font-size: 32px;
+  margin-top: -10px;
+}
+
+.div1 {
+  text-align: center;
+  display: block;
+ 
+ }
+
+
+.order {
+  padding: 10px 20px;
+  background: orange;
+  font-size: 26px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin-top: -10px;
+}
+.order:hover{
+  border-color: #ffcc00;
+  box-shadow: 0 0 25px rgba(255, 204, 0, 0.8);
+  transform: scale(1.15);
+}
+
+.ffr-1{
+    background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  left: 135%;
+  display: inline-block;
+  margin-top: -345px;
+}
+.br2{
+    height: 180px;
+  width: 180px;
+  border-radius: 120px;
+ 
+}
+.rel2{
+  padding: 10px 20px;
+  background: orange;
+  font-size: 26px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  position: absolute;
+  top: 270px;
+ left: 43%;
+
+}
+.ffr-2{
+  text-align: center;
+    display: inline-block;
+}
+.rel3{
+  padding: 10px 20px;
+  background: orange;
+  font-size: 26px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  position: absolute;
+  top: 750px;
+ left: 43%;
+
+}
+.ff-2{
+    background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  left: 15%;
+  display: inline-block;
+  margin-top: 555px;
+
+}
+.ffr-3{
+     background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: -2px;
+  left: 135%;
+ 
+
+}
+.br3{
+   height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.br4{
+   height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.ffr-4{
+    background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: 450px;
+  left: -135%;
+}
+.br5{
+   height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.ffr-5{
+       background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: -2px;
+  left: 135%;
+ 
+
+}
+.br6{
+   height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.rel4{
+   padding: 10px 20px;
+  background: orange;
+  font-size: 26px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  position: absolute;
+  top: 1650px;
+ left: 43%;
+}
+.div2{
+   text-align: center;
+  display: block;
+}
+.ff-3{
+  background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: 1750px;
+  left: 15%;
+}
+.br7{
+     height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.br8{
+   height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.ffr-6{
+       background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: -2px;
+  left: 135%;
+}
+.rel5{
+   padding: 10px 20px;
+  background: orange;
+  font-size: 26px;
+  text-decoration: none;
+  color: black;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(255, 139, 31);
+  font-weight: bold;
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  position: absolute;
+  top: 2110px;
+ left: 43%;
+}
+.br9{
+     height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.ff-4{
+  background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: 2210px;
+  left: 15%;
+}
+.ffr-7{
+    background-color: rgb(155, 155, 155);
+  height: 370px;
+  width: 290px;
+  border-radius: 15px;
+  position: absolute;
+  top: -2px;
+  left: 135%;
+}
+.br10{
+     height: 180px;
+  width: 180px;
+  border-radius: 120px;
+}
+.fot{
+    background-color: rgb(56, 50, 44);
+  height: 290px;
+  width: 2900px;
+  position: absolute;
+  top: 2650px;
+}
+.emeil{
+  font-size: 25px;
+  color: white;
+}
+.div2{
+   text-align: left;
+   position: absolute;
+   margin-right: 2500px;
+  display: block;
+}
+.emeil2{
+  font-size: 15px;
+  color: rgb(78, 78, 78);
+  position: absolute;
+  left: 45%;
+}
